@@ -6,7 +6,7 @@ using UnityEngine;
 public class CharacterInventory : MonoBehaviour
 {
     public Character character;
-    public const int MAX_ITEM_COUNT = 11;
+    public const int MAX_ITEM_COUNT = 40;
     public int CountWeast = 0;
     public GameObject scythe;
 
